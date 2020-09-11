@@ -1,0 +1,28 @@
+{
+  "logs": [
+    {
+      "message": "test booking",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-09-11T14:11:12.707Z",
+      "id": 1
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
